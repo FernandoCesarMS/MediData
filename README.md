@@ -1,46 +1,5 @@
-# Getting Started with Create React App
+Este projeto apresenta uma contribuição vital para o campo da saúde digital, abordando um desafio global crítico: a interoperabilidade eficaz dos registros médicos. Em um cenário de rápida evolução tecnológica, onde os dados de saúde estão sendo geradose compartilhados em uma escala sem precedentes, a necessidade de uma comunicação integrada e segura entre sistemas de saúde é inquestionável. 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Com base nesse problema, o projeto objetiva desenvolver uma aplicação que irá facilitar a troca de dados entre pacientes e médicos, fazendo o armazenamento e a obtenção desses dados, tratando-os com o padrão HL7 FHIR e integrando ao MedPlum, um sistema de prontuário médico open source.
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Além de resolver a lacuna na interoperabilidade dos registros médicos, este trabalho pretende transformar a maneira como pacientes acessam suas informações de saúde. A aplicação criada permitirá aos pacientes visualizar seus registros médicos de forma rápida e segura, proporcionando-lhes uma compreensão mais profunda de sua saúde. Ao mesmo tempo, os médicos terão acesso a uma visão detalhada do histórico de saúde de cada paciente, melhorando a precisão dos diagnósticos e personalizando os tratamentos.
